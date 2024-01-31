@@ -27,3 +27,8 @@ Jacob Kaplan-Moss
 
 # Git Practice
 A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+## Outside Opinion
+# From Jakob Hablitz (jsh9965)
+
+The article talks about trust, team building, and some of other more human aspects of developing software in an industry environment.  I think these are some of the aspects of software engineering that are often overlooked by computer sciece classes as in my experience all my classes focused on the individual developer making individual projects.  This meant very little practice working with a team as one might do in the real world.  However, I am excited to have to the opportunity to do more team-based projects in this class.
