@@ -27,3 +27,7 @@ Jacob Kaplan-Moss
 
 # Git Practice
 A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+Comment from Zhongqian Chen:
+
+Communication between team members and have a proper way of managing your team is definitely an important factor that determines how efficient and successful a software dev project goes. An indie-game in dev right now that I'm interested in called Ratatan updates their progress as articles each month, and I'm surprised to find out that they also update on how they manage their team and what new methods of communication they found out worked well for their team in every update article too. This shows how important this part is to the whole software dev project, and thus needs to be taken care of with caution.
