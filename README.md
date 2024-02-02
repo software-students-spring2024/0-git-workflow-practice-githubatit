@@ -35,7 +35,6 @@ A simple project to practice a few git/github workflows.  Replace the contents o
 The article talks about trust, team building, and some of other more human aspects of developing software in an industry environment.  I think these are some of the aspects of software engineering that are often overlooked by computer sciece classes as in my experience all my classes focused on the individual developer making individual projects.  This meant very little practice working with a team as one might do in the real world.  However, I am excited to have to the opportunity to do more team-based projects in this class.
 =======
 Comment from Zhongqian Chen:
-
 Communication between team members and have a proper way of managing your team is definitely an important factor that determines how efficient and successful a software dev project goes. An indie-game in dev right now that I'm interested in called Ratatan updates their progress as articles each month, and I'm surprised to find out that they also update on how they manage their team and what new methods of communication they found out worked well for their team in every update article too. This shows how important this part is to the whole software dev project, and thus needs to be taken care of with caution.
 ======
 # Comment from Zijie:
